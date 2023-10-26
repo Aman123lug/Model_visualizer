@@ -10,3 +10,4 @@ spacy==3.3.1
 streamlit==1.13.0
 # tensorflow
 flask
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
